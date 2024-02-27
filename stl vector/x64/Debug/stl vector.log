@@ -1,0 +1,6 @@
+﻿  stl vector.cpp
+D:\Проекты\stl vector\stl vector.cpp(382,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Проекты\stl vector\stl vector.cpp(407,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Проекты\stl vector\stl vector.cpp(392): warning C4715: Student::GetHomeWorkRatesCount: значение возвращается не при всех путях выполнения
+D:\Проекты\stl vector\stl vector.cpp(418): warning C4715: Student::GetExamRatesCount: значение возвращается не при всех путях выполнения
+  stl vector.vcxproj -> D:\Проекты\stl vector\x64\Debug\stl vector.exe
